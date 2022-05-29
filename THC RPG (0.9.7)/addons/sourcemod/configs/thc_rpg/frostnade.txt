@@ -1,0 +1,32 @@
+// Total HardCore RPG by ArsiRC
+// upgrade config file
+//
+"thc_rpg"
+{
+//
+// "disable":   disable upgrade
+// "teamlock":  disable the upgrade for the specified team
+//              0    enable the upgrade for all teams
+//              2    disable the upgrade for Terrorist team
+//              3    disable the upgrade for Counter-Terrorist team
+// "maxlevel":  the "maxlevel" that a client can purchase
+// "cost":      the starting "cost" of the upgrade
+// "icost":     how much the "cost" is incremented by each purchase
+//
+  "frostnade"
+  {
+    "disable"          "0"
+    "teamlock"         "0"
+    "effects"          "1"       // enable or disable graphic/sound effects
+    "maxlevel"         "20"
+    "cost"             "1000"
+    "icost"            "500"
+	"baseamount"       "2.0"	// amount of seconds the victim gets frozen
+    "amount"           "1.0"     // amount of seconds added to baseamount the victim gets frozen (multiplied by level)
+	"basespeed"	       "0.5"	// Base multiplier of speed
+	"speed"	"0.05"	// Number multiplied by level decreased from basespeed. Higher level - slower victim
+    "percent"          "1.1"     // the percentage of damage reduction for the frozen player
+                                 // 0.0 - 1.0 = 0-100%; 0.05 = 5%; 0.5 = 50%; 0.75 = 75%
+    "totalfreeze"      "1"       // if enabled the player get totally frozen by frostnade (usefull with disabled speed+ upgrade)
+  }
+}

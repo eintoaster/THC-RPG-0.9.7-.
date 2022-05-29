@@ -1,0 +1,10 @@
+"Phrases"
+{
+    // Command: <PROJECT_CMD_PREFIX>_reload_translations
+
+    "TransMgr cmd reloadtranslations"
+    {
+        "en"		"All translation files have been reloaded."
+		"ru"		"Все переведенные файлы были перезагружены."
+    }
+}

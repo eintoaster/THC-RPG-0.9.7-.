@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mdl/red_plus/red_plus.vtf"
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,9 @@
+models/mdl/red_plus/red_plus.dx80.vtx
+models/mdl/red_plus/red_plus.dx90.vtx
+models/mdl/red_plus/red_plus.mdl
+models/mdl/red_plus/red_plus.phy
+models/mdl/red_plus/red_plus.vvd
+models/mdl/red_plus/red_plus.sw.vtx
+materials/models/mdl/red_plus/red_plus.vmt
+materials/models/mdl/red_plus/red_plus.vtf
+

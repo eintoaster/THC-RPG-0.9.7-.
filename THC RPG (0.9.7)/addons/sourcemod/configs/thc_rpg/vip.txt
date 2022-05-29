@@ -1,0 +1,8 @@
+"Vip"
+{
+	"STEAM_1:0:38627919" //steam id
+	{
+	"xpmodifier""2" // rate
+	"expire""28.7.2015" // date
+	}
+}
